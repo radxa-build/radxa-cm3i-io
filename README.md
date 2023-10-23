@@ -1,10 +1,10 @@
-# Radxa E61
+# Radxa CM3I IO Baseboard
 
-[![Build image for Release channel](https://github.com/radxa-build/radxa-e61/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/radxa-e61/actions/workflows/build.yml)[![Build image for Test channel](https://github.com/radxa-build/radxa-e61/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/radxa-e61/actions/workflows/test.yml)
+[![Build image for Release channel](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/build.yml)[![Build image for Test channel](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/test.yml)
 
 ## What is this?
 
-This repo is the central location for Radxa-built system images for Radxa E61.
+This repo is the central location for Radxa-built system images for Radxa CM3I IO Baseboard.
 
 ## What images are provided?
 
@@ -15,7 +15,7 @@ Currently 4 flavors are provided:
 - Ubuntu Xfce: This flavor is provided as-is except for critical issues. Desktop is currently not working and we intend to fix it in a later time. This (currently broken) build is generated to catch build system issues.
 - Ubuntu CLI: This flavor is provided as-is except for critical issues. Users should look at Debian CLI as an alternative.
 
-Please also always use [the latest release](https://github.com/radxa-build/radxa-e61/releases/latest) instead of any pre-release / test builds. Those will not be supported.
+Please also always use [the latest release](https://github.com/radxa-build/radxa-cm3i-io/releases/latest) instead of any pre-release / test builds. Those will not be supported.
 
 ## Is there any other options?
 
