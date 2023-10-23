@@ -1,10 +1,10 @@
-# Radxa CM3 Industrial IO
+# Radxa CM3I IO Baseboard
 
 [![Build image for Release channel](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/build.yml)[![Build image for Test channel](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3i-io/actions/workflows/test.yml)
 
 ## What is this?
 
-This repo is the central location for Radxa-built system images for Radxa CM3i IO.
+This repo is the central location for Radxa-built system images for Radxa CM3I IO Baseboard.
 
 ## What images are provided?
 
